@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/skill-craft/static/css/main.84d08dda.css",
+    "main.js": "/skill-craft/static/js/main.38921c77.js",
+    "static/js/787.30dcabdb.chunk.js": "/skill-craft/static/js/787.30dcabdb.chunk.js",
+    "static/media/kristhina.png": "/skill-craft/static/media/kristhina.aea705fa6833342948fe.png",
+    "static/media/tech.png": "/skill-craft/static/media/tech.176207ac4995f4955bd6.png",
+    "static/media/tech community.jpg": "/skill-craft/static/media/tech community.7bf0a35c70eaa634e63d.jpg",
+    "static/media/hackers.avif": "/skill-craft/static/media/hackers.5f53f6c2d4e5be1dce2e.avif",
+    "static/media/footer.png": "/skill-craft/static/media/footer.c784afd004b3e6047ce1.png",
+    "static/media/artificial.avif": "/skill-craft/static/media/artificial.11f36a19519160357dad.avif",
+    "static/media/digital.jpg": "/skill-craft/static/media/digital.6ee77f913d56b206770e.jpg",
+    "static/media/skill.png": "/skill-craft/static/media/skill.5d77eefef1b03c28773a.png",
+    "index.html": "/skill-craft/index.html",
+    "main.84d08dda.css.map": "/skill-craft/static/css/main.84d08dda.css.map",
+    "main.38921c77.js.map": "/skill-craft/static/js/main.38921c77.js.map",
+    "787.30dcabdb.chunk.js.map": "/skill-craft/static/js/787.30dcabdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84d08dda.css",
+    "static/js/main.38921c77.js"
+  ]
+}
